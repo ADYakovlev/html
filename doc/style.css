@@ -9,8 +9,40 @@ a {
 }
 li{
 	list-style-type: none;
+	display: inline;
+	padding: 10px;
 }
 
 .menu {
 	background-color: #f8f8f8;
+}
+
+.logo {
+	height: 20px;
+	width: 20px;
+	padding: 20px;
+}
+header {
+
+}
+
+.product_img {
+	height: 200px;
+	width: 200px;
+}
+
+.product_preview{
+	height: 200px;
+	width: 200px;
+}
+.spt{
+	display: inline-block;
+	color: red;
+}
+.product_h3{
+	height: 30px;
+	display: inline;
+}
+.peoduct_p{
+	display: block;
 }
